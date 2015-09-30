@@ -1,0 +1,11 @@
+{
+  "name": "sample",
+  "description": "sample test app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x",
+	"nightmare": "2.0.6"
+  },
+  "scripts": {"start": "node --harmony server.js"}
+}
